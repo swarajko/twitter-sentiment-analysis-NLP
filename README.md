@@ -1,5 +1,5 @@
 # twitter-sentiment-analysis-NLP
-twitter comments sentiment analysis using bag of words model (natural language processing)
+twitter comments sentiment analysis using bag of words model (natural language processing) and Random Forest classification
 
 The dataset was taken from https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 
